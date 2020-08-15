@@ -42,12 +42,12 @@ DATABASES = {
 #SITES = {
 #    "api": {
 #       "scheme": "http",
-#       "domain": "localhost:8000",
+#       "domain": "taigaiotest.herokuapp.com",
 #       "name": "api"
 #    },
 #    "front": {
 #       "scheme": "http",
-#       "domain": "localhost:9001",
+#       "domain": "taigaiotest.herokuapp.com",
 #       "name": "front"
 #    },
 #}
